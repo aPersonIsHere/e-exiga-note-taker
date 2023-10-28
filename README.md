@@ -5,6 +5,12 @@
 ## Description
         
 The Note Taker can store notes in a database by using Node.js, node packet modules, and Express.js technology to run this program.
+GitHub Deployed Site: https://apersonishere.github.io/e-exiga-note-taker/
+Heroku Link: https://e-exiga-note-taker-e7d6ae5d1e49.herokuapp.com/
+
+![image](https://github.com/aPersonIsHere/e-exiga-note-taker/assets/33707404/bccd3e09-ee55-4bda-8f4e-c24d314c7edc)
+
+![image](https://github.com/aPersonIsHere/e-exiga-note-taker/assets/33707404/91488836-2093-4c43-9e0c-21fdb894b9c4)
 
 ## Table of Contents
 - [Installation](#installation)
